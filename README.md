@@ -1,30 +1,37 @@
 # Wellington Junior
 
-### Desenvolvedor Front-end Júnior | React.js · JavaScript · HTML5 · CSS3 · Git
+### Desenvolvedor Front-end | React.js · JavaScript · HTML5 · CSS3 · Git
 
-Sou estudante de **Engenharia de Software** e desenvolvedor Front-end em formação, com foco na criação de interfaces web responsivas, acessíveis e funcionais.
+Desenvolvo interfaces web responsivas, acessíveis e funcionais, transformando necessidades de negócio em experiências digitais claras e bem estruturadas.
 
-Atualmente estou construindo meu portfólio profissional e desenvolvendo projetos para consolidar meus conhecimentos, aplicar boas práticas e transformar ideias em experiências digitais bem estruturadas.
+Tenho experiência prática na criação de projetos reais para clientes e sigo evoluindo em React.js e JavaScript, com atenção à organização do código, usabilidade e qualidade da entrega.
 
 ## Competências
 
 - **Front-end:** React.js, JavaScript, HTML5 e CSS3
-- **Desenvolvimento web:** design responsivo, componentização e consumo de APIs
+- **Desenvolvimento web:** interfaces responsivas, componentização e consumo de APIs
 - **Ferramentas:** Git e GitHub
 - **Boas práticas:** acessibilidade, organização de código e experiência do usuário
 
+## Projetos
+
+### Mania de Doce e Cia
+
+Site desenvolvido para uma cliente, com foco em apresentar o negócio de forma profissional e oferecer uma experiência clara aos visitantes. O projeto será publicado em breve.
+
+### Portfólio profissional
+
+Novo site em desenvolvimento para reunir meus principais projetos, decisões técnicas e resultados.
+
 ## Objetivo profissional
 
-Busco uma oportunidade de **estágio** ou como **Desenvolvedor Front-end Júnior**, na qual eu possa contribuir com o time, aprender com profissionais experientes e evoluir na construção de produtos digitais.
+Busco oportunidades como **Desenvolvedor Front-end Júnior**, contribuindo com a construção e a evolução de produtos digitais.
 
-## Atualmente
+## Formação
 
-- Cursando Bacharelado em Engenharia de Software
-- Desenvolvendo meu site de portfólio profissional
-- Aprimorando conhecimentos em React.js e JavaScript
-- Aberto a oportunidades presenciais, híbridas ou remotas
+Bacharelado em Engenharia de Software em andamento.
 
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/wellington-junior-85ba93221/)
-- Localização: Rio de Janeiro, Brasil
+- Rio de Janeiro, Brasil
