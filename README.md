@@ -21,7 +21,7 @@ Site desenvolvido para uma cliente, com foco em apresentar o negócio de forma p
 
 ### Portfólio profissional
 
-Novo site em desenvolvimento para reunir meus principais projetos, decisões técnicas e resultados.
+site em para reunir meus principais projetos, decisões técnicas e resultados.
 
 ## Objetivo profissional
 
