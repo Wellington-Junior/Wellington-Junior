@@ -34,5 +34,6 @@ Bacharelado em Engenharia de Software em andamento.
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/wellington-junior-85ba93221/)
-- [WhatsApp](https://portfolio-wellington-steel.vercel.app)
+- [Portfolio](https://portfolio-wellington-steel.vercel.app)
+- [WhatsApp](https://w.app/wellingtonjunior)
 - Rio de Janeiro, Brasil
